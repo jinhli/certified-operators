@@ -6,11 +6,4 @@ entries:
     mediatype: image/png
   name: infoscale-operator
   schema: olm.package
-- entries:
-  - name: infoscale-operator.v7.9.1
-  name: stable
-  package: infoscale-operator
-  schema: olm.channel
-- image: registry.connect.redhat.com/veritas-technologies/infoscale-operator-bundle@sha256:aa898cb65de29ecae7075b30fd3b79ff5f2bedf6f6224fd104ad930be7e82dcd
-  schema: olm.bundle
 schema: olm.template.basic
